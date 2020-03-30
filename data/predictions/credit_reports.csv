@@ -1,0 +1,241 @@
+user_id,institution,account_type,credit_type,total_credit_payments,payment_frequency,amount_to_pay_next_payment,account_opening_date,account_closing_date,maximum_credit_amount,current_balance,credit_limit,past_due_balance,number_of_payments_due,worst_delinquency,worst_delinquency_date,worst_delinquency_past_due_balance
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,78.0,Semanal,0.0,11/10/14,12/5/15,9826.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,80.0,Semanal,0.0,12/5/15,10/14/16,16000.0,0.0,0.0,0.0,3.0,1.0,5/28/16,200.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,102.0,Semanal,100.0,9/2/16,,10205.0,3505.0,0.0,0.0,3.0,1.0,3/3/17,100.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,120.0,Semanal,191.0,10/14/16,,22920.0,11269.0,0.0,0.0,3.0,1.0,3/3/17,191.0
+0,KONFIO,Pagos Fijos,Préstamo Personal ,12.0,Quincenal,0.0,12/27/16,6/27/17,150000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,KONFIO,Pagos Fijos,Préstamo Personal ,26.0,Quincenal,10825.0,6/28/17,,225000.0,159142.0,0.0,0.0,0.0,0.0,,0.0
+0,TELEFONIA CELULAR,Revolvente,Línea de Crédito,1000.0,Mensual,0.0,10/6/16,9/15/17,0.0,0.0,999.0,0.0,7.0,4.0,5/31/17,4342.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Sin Límite Preestablecido,Crédito Personal al Consumo,0.0,Semanal,0.0,11/10/14,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,72.0,Mensual,5874.0,8/22/17,,513069.0,475245.0,513069.0,0.0,0.0,0.0,,0.0
+0,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,24.0,Mensual,10557.0,1/31/17,,247705.0,124316.0,247705.0,0.0,0.0,0.0,,0.0
+0,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,1642.0,4/24/17,,46307.0,40050.0,43500.0,0.0,0.0,0.0,,0.0
+0,FINANCIERA,Pagos Fijos,Compra de Automóvil,24.0,Mensual,3069.0,11/8/17,,57959.0,57959.0,0.0,0.0,0.0,0.0,,0.0
+0,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,304.0,10/24/16,,10000.0,6784.0,10000.0,0.0,0.0,0.0,,0.0
+0,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,1.0,Mensual,0.0,9/2/16,,3068.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,1369.0,9/25/16,,6997.0,4206.0,10000.0,0.0,0.0,0.0,,0.0
+0,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,6/3/15,10/27/15,25000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+1,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,53.0,Semanal,0.0,7/11/04,,10400.0,0.0,0.0,0.0,0.0,0.0,0000-00-00,0.0
+1,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,78.0,Semanal,0.0,9/15/09,,20670.0,0.0,0.0,0.0,0.0,10.0,3/1/11,2953.0
+1,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,78.0,Semanal,0.0,5/25/12,,34710.0,0.0,0.0,0.0,43.0,13.0,5/3/13,5785.0
+1,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,78.0,Semanal,0.0,5/4/13,,21982.0,0.0,0.0,0.0,90.0,73.0,11/8/14,20414.0
+1,ADMINISTRADORAS DE CARTERA,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/1/15,,12036.0,0.0,12036.0,0.0,10.0,13.0,2/28/15,12036.0
+1,MERCANCIA PARA HOGAR Y OFICINA,Sin Límite Preestablecido,Crédito Personal al Consumo,0.0,Semanal,0.0,9/22/09,,0.0,0.0,0.0,0.0,0.0,11.0,3/1/11,1196.0
+1,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,8/16/06,,731.0,0.0,0.0,0.0,0.0,0.0,0000-00-00,0.0
+1,HIPOTECAGOBIERNO,Hipoteca,Bienes Raíces,360.0,Mensual,4927.0,5/18/04,,247552.0,638283.0,247552.0,146083.0,0.0,0.0,0000-00-00,0.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,80.0,Semanal,400.0,5/12/17,,16000.0,13400.0,0.0,200.0,10.0,2.0,6/30/17,408.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,80.0,Semanal,60.0,5/12/17,,2400.0,2010.0,0.0,30.0,10.0,2.0,6/30/17,61.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Crédito Prendario,Préstamo Personal ,0.0,Semanal,0.0,7/1/17,7/29/17,3418.0,0.0,0.0,0.0,0.0,0.0,,0.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Crédito Prendario,Préstamo Personal ,0.0,Semanal,0.0,7/5/17,7/29/17,1476.0,0.0,0.0,0.0,0.0,0.0,,0.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Crédito Prendario,Préstamo Personal ,0.0,Semanal,855.0,7/29/17,,3418.0,3418.0,0.0,0.0,0.0,0.0,,0.0
+2,MERCANCIA PARA HOGAR Y OFICINA,Crédito Prendario,Préstamo Personal ,0.0,Semanal,369.0,7/29/17,,1476.0,1476.0,0.0,0.0,0.0,0.0,,0.0
+2,BANCO,Pagos Fijos,Préstamo Personal ,1.0,Mensual,0.0,1/18/16,4/1/16,1475.0,0.0,1475.0,0.0,0.0,0.0,,0.0
+2,BANCO,Pagos Fijos,Préstamo Personal ,1.0,Mensual,0.0,8/6/14,8/26/14,876.0,0.0,876.0,0.0,0.0,0.0,,0.0
+3,BANCO,Pagos Fijos,Préstamo de Nomina,72.0,Quincenal,366.0,7/1/12,,25135.0,15290.0,25000.0,0.0,0.0,0.0,,0.0
+3,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,14350.0,4/12/11,,20650.0,14350.0,14350.0,14350.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/28/12,6/22/16,16469.0,0.0,0.0,6852.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/28/12,1/31/16,8725.0,0.0,12500.0,0.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/1/12,6/10/15,37543.0,0.0,30000.0,11634.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,9/1/12,10/27/14,0.0,0.0,48000.0,0.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/28/12,9/30/14,8084.0,0.0,12500.0,0.0,0.0,0.0,,0.0
+4,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/1/12,6/30/13,19275.0,0.0,1.0,0.0,0.0,0.0,,0.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Crédito al Consumo,26.0,Semanal,0.0,5/31/04,10/10/04,4598.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Arrendamiento,52.0,Semanal,0.0,7/25/11,5/26/12,6143.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,52.0,Semanal,0.0,9/25/11,5/26/12,3648.0,0.0,0.0,0.0,5.0,1.0,10/16/11,70.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,52.0,Semanal,895.0,9/20/12,,4317.0,895.0,0.0,895.0,96.0,11.0,2/6/14,1790.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Arrendamiento,100.0,Semanal,8263.0,10/6/12,,13400.0,8263.0,0.0,8263.0,96.0,84.0,2/14/15,8263.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Revolvente,Línea de Crédito,50.0,Semanal,0.0,1/12/08,3/31/08,1300.0,0.0,1300.0,0.0,0.0,10.0,3/29/08,1216.0
+5,TELEFONIA CELULAR,Revolvente,Línea de Crédito,0.0,Mensual,698.0,3/14/15,,698.0,698.0,1000.0,698.0,15.0,6.0,7/31/16,698.0
+5,MERCANCIA PARA HOGAR Y OFICINA,Sin Límite Preestablecido,Crédito Personal al Consumo,0.0,Semanal,0.0,3/29/06,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,HIPOTECAGOBIERNO,Hipoteca,Bienes Raíces,360.0,Mensual,1805.0,12/30/98,,141384.0,224370.0,141384.0,3743.0,0.0,0.0,,0.0
+5,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,1/16/10,2/29/16,4.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,TIENDA COMERCIAL,Pagos Fijos,Aparatos - Muebles,1.0,Mensual,0.0,1/30/15,2/9/15,7390.0,0.0,7390.0,0.0,0.0,0.0,,0.0
+5,TIENDA COMERCIAL,Pagos Fijos,Aparatos - Muebles,1.0,Mensual,0.0,1/29/15,2/9/15,2463.0,0.0,2463.0,0.0,0.0,0.0,,0.0
+5,BANCO,Pagos Fijos,Línea de Crédito,0.0,Mensual,0.0,9/11/14,1/28/15,12453.0,0.0,12.0,10284.0,0.0,0.0,,0.0
+5,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,36.0,Mensual,0.0,11/25/11,4/5/13,20000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,7.0,Mensual,0.0,5/4/11,11/22/11,4800.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,6.0,Mensual,0.0,1/31/11,7/30/11,2000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+5,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,6.0,Mensual,0.0,11/4/10,5/4/11,4000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,TELEFONIA CELULAR,Revolvente,Línea de Crédito,0.0,Mensual,0.0,7/5/13,6/30/17,784.0,0.0,1197.0,0.0,0.0,0.0,,0.0
+6,CIA Q  OTORGA,Sin Límite Preestablecido,Tarjeta de Crédito,0.0,Mensual,0.0,12/10/14,,19544.0,5366.0,0.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,5/8/14,,47497.0,37429.0,39000.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,8/29/14,,19420.0,10217.0,18300.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,2157.0,5/6/14,,33695.0,32809.0,31000.0,0.0,0.0,0.0,,0.0
+6,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,199.0,1/13/16,,2769.0,0.0,10000.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,1960.0,4/22/16,,25000.0,24661.0,25000.0,0.0,0.0,0.0,,0.0
+6,AUTOMOTRIZ,Pagos Fijos,Arrendamiento Automotriz,48.0,Mensual,298.0,9/23/15,,9651.0,299.0,0.0,298.0,0.0,0.0,,0.0
+6,AUTOMOTRIZ,Pagos Fijos,Arrendamiento Automotriz,48.0,Mensual,17074.0,9/23/15,,628448.0,15202.0,0.0,15201.0,0.0,0.0,,0.0
+6,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,9/25/15,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,2/9/15,,69584.0,73986.0,72000.0,0.0,0.0,0.0,,0.0
+6,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,11/1/09,,12593.0,11378.0,12000.0,0.0,0.0,0.0,,0.0
+6,BANCO,Pagos Fijos,Préstamo Personal ,24.0,Mensual,0.0,9/1/14,10/17/16,40928.0,0.0,40928.0,0.0,0.0,0.0,,0.0
+6,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,11/3/09,11/30/15,13493.0,0.0,10000.0,0.0,0.0,0.0,,0.0
+6,COBRANZA,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,3/7/04,4/30/12,10831.0,0.0,12800.0,0.0,0.0,0.0,,0.0
+6,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,0.0,7/26/08,12/29/11,16304.0,0.0,14000.0,0.0,0.0,0.0,,0.0
+7,MERCANCIA PARA LA CONSTRUCCION,Pagos Fijos,Préstamo Personal ,52.0,Semanal,394.0,6/26/16,,20488.0,6304.0,0.0,0.0,15.0,8.0,11/13/16,3165.0
+7,MERCANCIA PARA LA CONSTRUCCION,Pagos Fijos,Préstamo Personal ,52.0,Semanal,0.0,6/26/16,7/8/16,1040.0,0.0,0.0,0.0,0.0,0.0,,0.0
+7,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,48.0,Mensual,220130.0,1/15/16,,310921.0,220130.0,0.0,220130.0,0.0,0.0,,0.0
+7,BANCOS,Pagos Fijos,Otros (Múltiples Créditos),60.0,Mensual,666.0,7/3/15,,17000.0,15244.0,0.0,0.0,0.0,0.0,,0.0
+7,TELEFONIA CELULAR,Revolvente,Línea de Crédito,0.0,Mensual,507.0,2/3/16,,964.0,507.0,1497.0,0.0,0.0,0.0,,0.0
+7,SERVICIO DE TELEVISION DE PAGA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,400.0,6/13/15,,450.0,400.0,0.0,0.0,0.0,0.0,,0.0
+7,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,5008.0,12/4/15,,54823.0,54037.0,52600.0,0.0,0.0,0.0,,0.0
+7,AUTOMOTRIZ,Pagos Fijos,Arrendamiento Automotriz,36.0,Mensual,6163.0,1/8/16,,215705.0,160678.0,215705.0,18929.0,0.0,0.0,,0.0
+7,BANCO,Pagos Fijos,Préstamo de Nomina,60.0,Mensual,899.0,1/1/16,,30000.0,25995.0,30000.0,0.0,0.0,0.0,,0.0
+7,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,48.0,Mensual,4747.0,2/23/16,,172413.0,170763.0,0.0,24136.0,0.0,0.0,,0.0
+7,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,3/12/06,2/29/12,2570.0,0.0,2000.0,0.0,0.0,0.0,,0.0
+8,TIENDA DEPARTAMENTAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,977.0,4/29/11,,977.0,977.0,7203.0,977.0,5.0,13.0,1/31/17,977.0
+8,TIENDA DEPARTAMENTAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,1814.0,12/15/11,,1814.0,1814.0,7203.0,1814.0,7.0,13.0,1/31/17,1814.0
+8,MERCANCIA PARA HOGAR Y OFICINA,Sin Límite Preestablecido,Crédito Personal al Consumo,0.0,Semanal,0.0,5/14/11,,0.0,0.0,0.0,0.0,0.0,14.0,1/21/12,1217.0
+8,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,5827.0,12/26/15,,5827.0,5827.0,0.0,5827.0,14.0,13.0,5/31/17,5827.0
+8,FINANCIERA,Pagos Fijos,Préstamo Personal ,4.0,Quincenal,1186.0,11/1/13,,2116.0,3707.0,0.0,3707.0,0.0,0.0,,0.0
+9,VENTA POR CATALOGO,Pagos Fijos,Crédito al Consumo,65.0,Semanal,0.0,9/27/03,4/5/05,8775.0,0.0,0.0,0.0,0.0,0.0,,0.0
+9,TIENDA COMERCIAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,8216.0,10/12/13,,8216.0,8216.0,15906.0,8216.0,15.0,0.0,,0.0
+9,TIENDA COMERCIAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,1575.0,6/19/13,,1575.0,1575.0,15906.0,1575.0,15.0,0.0,,0.0
+9,TIENDA COMERCIAL,Pagos Fijos,Línea de Crédito,18.0,Mensual,18997.0,4/24/15,,18997.0,18997.0,15906.0,18997.0,21.0,0.0,,0.0
+9,BANCOS,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,9/30/13,12/30/14,8800.0,0.0,8800.0,12473.0,14.0,6.0,12/31/14,12473.0
+9,TIENDA COMERCIAL,Pagos Fijos,Línea de Crédito,18.0,Mensual,10864.0,1/31/15,,10864.0,10864.0,15906.0,10864.0,22.0,0.0,,0.0
+9,TIENDA COMERCIAL,Revolvente,Préstamo Personal ,0.0,Mensual,12221.0,7/23/13,,12221.0,12221.0,15906.0,12221.0,15.0,0.0,,0.0
+9,BANCOS,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/20/12,7/18/14,10087.0,0.0,10100.0,0.0,4.0,4.0,6/30/14,4755.0
+9,BANCOS,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,7/18/14,4/29/15,13101.0,0.0,13101.0,7070.0,8.0,6.0,4/30/15,7070.0
+9,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,11/9/11,,0.0,0.0,0.0,0.0,0.0,13.0,9/30/15,1809.0
+10,GOBIERNO,Pagos Fijos,Crédito Fiscal,1.0,Mensual,0.0,8/23/14,2/21/17,0.0,0.0,0.0,0.0,7.0,13.0,7/31/16,2523.0
+10,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,30.0,Mensual,11327.0,5/15/17,,356115.0,294506.0,356115.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,786.0,8/6/11,,6035.0,0.0,10000.0,0.0,0.0,0.0,,0.0
+10,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,1043.0,6/20/09,,10767.0,5192.0,7000.0,0.0,0.0,0.0,,0.0
+10,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,3/22/17,,20000.0,0.0,20000.0,0.0,0.0,0.0,,0.0
+10,CIA Q  OTORGA,Sin Límite Preestablecido,Tarjeta de Crédito,0.0,Mensual,0.0,7/21/17,,13628.0,2232.0,0.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,1337.0,9/25/13,,3106.0,0.0,2500.0,0.0,0.0,0.0,,0.0
+10,TIENDA COMERCIAL,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,11/21/06,,1320.0,0.0,1.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,8/14/17,,257.0,0.0,1000.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,8/14/17,,625.0,0.0,1000.0,0.0,0.0,0.0,,0.0
+10,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,7/20/12,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+10,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,11/1/10,3/31/17,12957.0,0.0,10100.0,0.0,0.0,0.0,,0.0
+10,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,9/14/13,2/18/16,600.0,0.0,740.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,12/6/12,2/29/16,2556.0,0.0,1500.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,4/26/12,11/30/14,4539.0,0.0,300.0,0.0,0.0,0.0,,0.0
+10,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,1/5/09,6/30/13,2357.0,0.0,750.0,0.0,0.0,0.0,,0.0
+11,COMUNICACIONES,Revolvente,Línea de Crédito,0.0,Mensual,0.0,4/24/13,,3035.0,0.0,2200.0,0.0,0.0,0.0,,0.0
+11,TIENDA COMERCIAL,Revolvente,Tarjeta de Crédito,0.0,Mensual,4360.0,9/26/15,,56310.0,50638.0,55000.0,0.0,0.0,0.0,,0.0
+11,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,2302.0,12/31/13,,1978.0,0.0,20000.0,0.0,0.0,0.0,,0.0
+11,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,6/8/17,,0.0,0.0,49999.0,0.0,0.0,0.0,,0.0
+11,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,7368.0,10/30/16,,78056.0,74158.0,72000.0,0.0,0.0,0.0,,0.0
+11,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,399.0,3/20/15,,1395.0,399.0,10000.0,0.0,0.0,0.0,,0.0
+11,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,8/10/16,,20916.0,16983.0,18000.0,0.0,0.0,0.0,,0.0
+11,CIA Q  OTORGA,Sin Límite Preestablecido,Tarjeta de Crédito,0.0,Mensual,10918.0,11/21/13,,84662.0,42797.0,0.0,0.0,0.0,0.0,,0.0
+11,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,6032.0,11/27/15,,154908.0,153771.0,148500.0,0.0,0.0,0.0,,0.0
+11,BANCO,Pagos Fijos,Línea de Crédito,120.0,Mensual,0.0,12/30/14,4/30/16,164320.0,0.0,216600.0,0.0,0.0,0.0,,0.0
+11,BANCO,Pagos Fijos,Línea de Crédito,12.0,Mensual,0.0,3/24/14,1/31/16,5000.0,0.0,5000.0,0.0,0.0,0.0,,0.0
+12,SOCIEDADES FINANCIERAS POPULARES,Pagos Fijos,Préstamo Garantizado,12.0,Catorcenal,0.0,1/22/16,7/7/16,15000.0,0.0,15000.0,0.0,1.0,1.0,3/7/16,110.0
+12,SOCIEDADES FINANCIERAS POPULARES,Pagos Fijos,Préstamo Garantizado,12.0,Catorcenal,0.0,7/7/16,12/9/16,19000.0,0.0,15000.0,0.0,0.0,0.0,,0.0
+12,SOCIEDADES FINANCIERAS POPULARES,Pagos Fijos,Préstamo Garantizado,16.0,Catorcenal,0.0,12/9/16,7/21/17,19000.0,0.0,19000.0,0.0,0.0,0.0,,0.0
+12,COMUNICACIONES,Revolvente,Línea de Crédito,0.0,Mensual,0.0,12/28/16,,1045.0,0.0,1647.0,0.0,0.0,0.0,,0.0
+12,SERVICIO DE TELEVISION DE PAGA,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,0.0,3/30/17,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+12,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,3/23/17,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+12,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,138.0,12/19/16,,5000.0,1328.0,5000.0,0.0,0.0,0.0,,0.0
+12,FINANCIERA,Pagos Fijos,Préstamo Personal ,52.0,Semanal,0.0,11/23/16,11/24/17,16740.0,0.0,16740.0,0.0,0.0,0.0,,0.0
+12,COMUNICACIONES,Revolvente,Línea de Crédito,3.0,Mensual,0.0,12/9/15,3/18/16,349.0,0.0,100.0,0.0,6.0,0.0,,0.0
+13,SERVICIOS,Hipoteca,Hipotecario O Vivienda,360.0,Mensual,1101.0,10/9/08,,145075.0,214381.0,145075.0,884.0,4.0,1.0,9/30/17,1092.0
+13,BANCO,Pagos Fijos,Compra de Automóvil,48.0,Mensual,0.0,12/2/10,12/26/14,194968.0,0.0,0.0,0.0,0.0,0.0,,0.0
+13,BANCOS,Pagos Fijos,Préstamo Personal ,10.0,Catorcenal,0.0,8/18/14,3/20/15,9001.0,0.0,9001.0,0.0,0.0,0.0,,0.0
+13,CIA Q  OTORGA,Sin Límite Preestablecido,Tarjeta de Crédito,0.0,Mensual,0.0,2/14/18,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+13,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,1015.0,12/4/00,,6756.0,0.0,1400.0,0.0,1.0,0.0,,0.0
+13,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,9/1/05,1/10/18,123242.0,0.0,82500.0,61234.0,8.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Línea de Crédito,36.0,Mensual,3367.0,3/24/17,,70000.0,58463.0,0.0,0.0,2.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Compra de Automóvil,36.0,Mensual,10583.0,9/1/16,,312900.0,192089.0,0.0,0.0,0.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Préstamo Personal ,48.0,Mensual,3679.0,9/1/16,,102320.0,76650.0,102320.0,0.0,0.0,0.0,,0.0
+13,FINANCIERA,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,8/1/07,1/31/18,24568.0,0.0,15000.0,0.0,7.0,0.0,,0.0
+13,SERVICIOS,Revolvente,Otros (Múltiples Créditos),0.0,Mensual,0.0,2/6/02,,11980.0,786.0,11980.0,0.0,0.0,0.0,,0.0
+13,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,11/13/11,1/31/17,929.0,0.0,20000.0,0.0,3.0,0.0,,0.0
+13,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,10/7/09,11/30/16,876.0,0.0,20000.0,0.0,0.0,0.0,,0.0
+13,SERVICIOS,Pagos Fijos,Otros (Múltiples Créditos),0.0,Quincenal,0.0,5/8/15,11/4/16,15904.0,0.0,0.0,0.0,4.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Línea de Crédito,36.0,Mensual,0.0,1/5/16,8/5/16,100000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+13,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,8/1/07,8/10/16,15817.0,0.0,15000.0,0.0,0.0,0.0,,0.0
+13,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,8/14/10,6/30/16,648.0,0.0,2.0,0.0,3.0,0.0,,0.0
+13,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,2/2/10,5/31/16,648.0,0.0,2.0,0.0,0.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Compra de Automóvil,48.0,Mensual,0.0,12/6/10,1/30/15,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+13,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,18.0,Mensual,0.0,3/25/13,9/25/14,184165.0,0.0,184165.0,0.0,1.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Préstamo de Nomina,72.0,Quincenal,0.0,1/1/11,6/30/14,2200.0,0.0,2200.0,0.0,0.0,0.0,,0.0
+13,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/26/13,5/26/14,43298.0,0.0,19400.0,0.0,6.0,0.0,,0.0
+13,BANCO,Pagos Fijos,Préstamo de Nomina,36.0,Quincenal,0.0,1/1/07,4/19/14,34500.0,0.0,34500.0,0.0,2.0,0.0,,0.0
+13,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,4/12/11,12/9/13,59857.0,0.0,56000.0,0.0,5.0,0.0,,0.0
+13,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,2/16/03,12/6/13,48116.0,0.0,40100.0,0.0,7.0,0.0,,0.0
+13,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,48.0,Mensual,9452.0,12/2/10,10/3/12,453527.0,0.0,0.0,0.0,0.0,0.0,,0.0
+14,TELEFONIA CELULAR,Revolvente,Línea de Crédito,0.0,Mensual,37537.0,6/28/12,,8715.0,37537.0,3500.0,37536.0,24.0,13.0,6/30/16,37537.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,6390.0,5/27/13,,22829.0,21840.0,21840.0,21840.0,0.0,0.0,,0.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,1030.0,8/1/12,,19652.0,15528.0,15000.0,9140.0,0.0,0.0,,0.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,1210.0,12/1/11,,22073.0,17337.0,15000.0,10350.0,0.0,0.0,,0.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,23210.0,1/28/14,7/7/15,23210.0,23210.0,20000.0,23210.0,0.0,0.0,,0.0
+14,BANCO,Pagos Fijos,Línea de Crédito,90.0,Mensual,36223.0,1/23/14,5/1/15,39900.0,36223.0,39900.0,36223.0,0.0,0.0,,0.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/28/14,3/10/14,18985.0,0.0,20000.0,0.0,0.0,0.0,,0.0
+14,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,9/1/11,12/18/11,0.0,0.0,1.0,0.0,0.0,0.0,,0.0
+15,BANCOS,Pagos Fijos,Préstamo Personal ,12.0,Mensual,3879.0,11/12/15,6/6/17,30786.0,4655.0,0.0,4655.0,9.0,13.0,6/30/17,4655.0
+15,SOCIEDAD FINANCIERA DE OBJETO MULTIPLE,Pagos Fijos,Préstamo Personal ,1.0,Mensual,2546.0,4/21/16,,1501.0,2546.0,0.0,2546.0,12.0,13.0,5/31/17,2546.0
+15,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,1699.0,9/26/14,,1699.0,1699.0,0.0,1699.0,23.0,13.0,11/30/16,1699.0
+15,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,1838.0,9/10/15,,1838.0,1838.0,0.0,1838.0,17.0,13.0,6/30/17,12447.0
+15,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,3289.0,6/2/11,,3605.0,3289.0,2.0,0.0,6.0,0.0,,0.0
+15,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,5/24/12,6/30/16,971.0,0.0,10000.0,0.0,15.0,0.0,,0.0
+15,FINANCIERA,Pagos Fijos,Préstamo Personal ,1.0,Mensual,0.0,4/21/16,4/22/16,1501.0,0.0,1501.0,0.0,1.0,0.0,,0.0
+16,VENTA POR CATALOGO,Revolvente,Línea de Crédito,0.0,Semanal,0.0,6/1/11,2/28/13,1364.0,0.0,1364.0,0.0,45.0,52.0,9/24/12,1364.0
+16,BANCOS,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,2/2/12,9/27/12,7128.0,0.0,6400.0,7128.0,6.0,6.0,9/30/12,7128.0
+16,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,8/24/12,4/30/16,874.0,0.0,10000.0,0.0,0.0,0.0,,0.0
+17,FONDOS Y FIDEICOMISOS,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,9/27/12,10/31/13,13435.0,0.0,0.0,0.0,0.0,0.0,,0.0
+17,FONDOS Y FIDEICOMISOS,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,9/27/12,10/31/13,23456.0,0.0,0.0,0.0,0.0,0.0,,0.0
+17,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,39.0,Semanal,0.0,11/14/08,1/13/09,8580.0,0.0,0.0,0.0,0.0,0.0,,0.0
+17,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Arrendamiento,52.0,Semanal,0.0,11/15/10,4/3/11,18257.0,0.0,0.0,0.0,0.0,2.0,1/31/11,702.0
+17,SERVICIO DE TELEVISION DE PAGA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,7/29/13,,268.0,0.0,740.0,0.0,0.0,0.0,,0.0
+17,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,2545.0,12/27/15,,2617.0,0.0,10000.0,0.0,0.0,0.0,,0.0
+17,BANCO,Pagos Fijos,Préstamo Personal ,59.0,Mensual,121927.0,9/15/15,,93000.0,121927.0,0.0,121927.0,0.0,0.0,,0.0
+17,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,24686.0,1/16/14,,61438.0,61438.0,39000.0,20774.0,0.0,0.0,,0.0
+17,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,34375.0,6/17/13,,34376.0,34375.0,21500.0,34375.0,0.0,0.0,,0.0
+17,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/17/17,,0.0,49879.0,0.0,0.0,0.0,0.0,,0.0
+17,BANCO,Hipoteca,Mejoras a la Casa,1.0,Mensual,0.0,8/27/14,3/29/17,46231.0,0.0,0.0,0.0,0.0,0.0,,0.0
+17,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,9/26/09,1/31/14,2731.0,0.0,4950.0,0.0,0.0,0.0,,0.0
+17,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,0.0,4/26/09,10/1/12,7591.0,0.0,6000.0,0.0,0.0,0.0,,0.0
+18,FONDOS Y FIDEICOMISOS,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,6/25/13,7/28/14,43513.0,0.0,0.0,0.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo Personal ,16.0,Semanal,467.0,4/12/17,,6143.0,2996.0,0.0,0.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo de Nomina,72.0,Quincenal,46319.0,2/11/13,,47000.0,46319.0,0.0,46319.0,0.0,0.0,,0.0
+18,HIPOTECAGOBIERNO,Hipoteca,Bienes Raíces,360.0,Mensual,3772.0,6/30/14,,354721.0,456370.0,354721.0,52803.0,0.0,0.0,,0.0
+18,GUBERNAMENTALES,Pagos Fijos,Préstamo Personal ,15.0,Mensual,1460.0,7/28/14,,26283.0,17897.0,0.0,13526.0,0.0,0.0,,0.0
+18,GUBERNAMENTALES,Pagos Fijos,Préstamo Personal ,18.0,Mensual,360.0,7/30/14,,6472.0,3326.0,0.0,1888.0,0.0,0.0,,0.0
+18,FINANCIERA,Pagos Fijos,Préstamo Personal ,43.0,Quincenal,1132.0,10/18/12,,11110.0,132075.0,0.0,132075.0,0.0,0.0,,0.0
+18,SERVICIOS,Sin Límite Preestablecido,Otros (Múltiples Créditos),1.0,Mensual,594.0,1/23/16,,317.0,594.0,740.0,594.0,0.0,0.0,,0.0
+18,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,12/11/12,12/27/13,5659.0,0.0,5700.0,7533.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo Personal ,16.0,Semanal,0.0,8/27/13,12/23/13,9066.0,0.0,0.0,0.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo Personal ,16.0,Semanal,0.0,5/7/13,8/28/13,6007.0,0.0,0.0,0.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo Personal ,0.0,Mensual,0.0,5/22/12,2/11/13,40000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+18,FINANCIERA,Pagos Fijos,Préstamo Personal ,16.0,Semanal,0.0,8/6/12,11/26/12,5000.0,0.0,5000.0,0.0,0.0,0.0,,0.0
+18,BANCO,Pagos Fijos,Préstamo Personal ,0.0,Mensual,0.0,2/8/12,5/22/12,21000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+19,TIENDA DEPARTAMENTAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,4334.0,8/8/14,,4334.0,4334.0,21609.0,4334.0,10.0,13.0,1/31/17,4334.0
+19,TIENDA DEPARTAMENTAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,1922.0,10/1/14,,1922.0,1922.0,21609.0,1922.0,10.0,13.0,1/31/17,1922.0
+19,TIENDA DEPARTAMENTAL,Pagos Fijos,Aparatos - Muebles,12.0,Mensual,2159.0,9/8/14,,2159.0,2159.0,21609.0,2159.0,10.0,13.0,1/31/17,2159.0
+19,SOCIEDAD FINANCIERA DE OBJETO MULTIPLE,Pagos Fijos,Préstamo Personal ,1.0,Mensual,5582.0,11/9/17,,3000.0,5582.0,0.0,1395.0,1.0,1.0,11/30/17,1395.0
+19,TIENDA DEPARTAMENTAL,Revolvente,Línea de Crédito,0.0,Mensual,0.0,4/8/14,2/4/15,2610.0,0.0,17217.0,0.0,0.0,0.0,,0.0
+19,TIENDA COMERCIAL,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,4/5/08,,1866.0,0.0,1.0,0.0,0.0,0.0,,0.0
+19,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,1.0,Mensual,2619.0,2/17/16,,3163.0,2619.0,0.0,0.0,0.0,0.0,,0.0
+19,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/9/15,3/29/17,54925.0,0.0,50000.0,40813.0,11.0,0.0,,0.0
+19,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,2/14/15,2/28/17,1336.0,0.0,1.0,0.0,15.0,0.0,,0.0
+19,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,1.0,Mensual,0.0,2/17/16,7/31/16,231.0,0.0,0.0,0.0,4.0,0.0,,0.0
+19,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,1.0,Mensual,0.0,9/23/13,2/16/16,3007.0,0.0,0.0,0.0,1.0,0.0,,0.0
+19,BANCO,Pagos Fijos,Línea de Crédito,36.0,Mensual,0.0,10/2/12,12/30/15,20000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+19,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/9/15,9/10/15,54925.0,0.0,50000.0,0.0,1.0,0.0,,0.0
+19,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,11/1/10,9/30/13,1758.0,0.0,0.0,0.0,2.0,0.0,,0.0
+20,GOBIERNO,Pagos Fijos,Crédito Fiscal,1.0,Mensual,3287.0,11/1/16,,3287.0,3287.0,0.0,3287.0,11.0,13.0,11/30/17,3287.0
+20,ADMINISTRADORAS DE CARTERA,Pagos Fijos,Tarjeta de Crédito,1.0,Mensual,20272.0,12/12/13,,20272.0,20272.0,20272.0,20272.0,7.0,13.0,10/31/14,20272.0
+20,SERVICIO DE TELEVISION DE PAGA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,0.0,11/5/05,10/22/10,10000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+20,TELEFONIA LOCAL Y DE LARGA DISTANCIA,Sin Límite Preestablecido,Línea de Crédito,0.0,Mensual,7724.0,11/13/15,,7724.0,7724.0,0.0,7724.0,15.0,13.0,10/31/17,7724.0
+20,COMUNICACIONES,Sin Límite Preestablecido,Otros (Múltiples Créditos),0.0,Mensual,1699.0,4/14/14,,1699.0,1699.0,0.0,1699.0,4.0,0.0,,0.0
+20,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,0.0,1/1/07,3/31/17,20272.0,0.0,8500.0,0.0,0.0,0.0,,0.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,78.0,Semanal,0.0,11/10/14,12/5/15,9826.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,80.0,Semanal,0.0,12/5/15,10/14/16,16000.0,0.0,0.0,0.0,3.0,1.0,5/28/16,200.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Línea de Crédito,102.0,Semanal,100.0,9/2/16,,10205.0,6105.0,0.0,0.0,2.0,1.0,3/3/17,100.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Pagos Fijos,Préstamo Personal ,120.0,Semanal,191.0,10/14/16,,22920.0,16235.0,0.0,0.0,2.0,1.0,3/3/17,191.0
+0,KONFIO,Pagos Fijos,Préstamo Personal ,12.0,Quincenal,16224.0,12/27/16,,150000.0,46320.0,0.0,0.0,0.0,0.0,,0.0
+0,COMUNICACIONES,Revolvente,Línea de Crédito,0.0,Mensual,4342.0,10/6/16,,4342.0,4342.0,1000.0,4342.0,0.0,0.0,,0.0
+0,MERCANCIA PARA HOGAR Y OFICINA,Sin Límite Preestablecido,Crédito Personal al Consumo,0.0,Semanal,0.0,11/10/14,,0.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,468.0,10/24/16,,10000.0,7034.0,10000.0,0.0,0.0,0.0,,0.0
+0,COMUNICACIONES,Sin Límite Preestablecido,Línea de Crédito,1.0,Mensual,0.0,9/2/16,,2406.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,BANCO,Revolvente,Tarjeta de Crédito,0.0,Mensual,1767.0,4/24/17,,43631.0,43088.0,43500.0,0.0,0.0,0.0,,0.0
+0,AUTOMOTRIZ,Pagos Fijos,Compra de Automóvil,24.0,Mensual,10557.0,1/31/17,,247705.0,196239.0,247705.0,0.0,0.0,0.0,,0.0
+0,TIENDA COMERCIAL,Revolvente,Línea de Crédito,0.0,Mensual,398.0,9/25/16,,1347.0,398.0,10000.0,0.0,0.0,0.0,,0.0
+0,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,12.0,Mensual,0.0,6/3/15,10/27/15,25000.0,0.0,0.0,0.0,0.0,0.0,,0.0
+0,MICROFINANCIERA,Pagos Fijos,Préstamo Personal ,6.0,Mensual,0.0,5/9/11,9/15/11,5000.0,0.0,0.0,0.0,0.0,0.0,,0.0
