@@ -17,13 +17,17 @@ from sklearn.model_selection import (train_test_split,
 
 
 def get_features(dir):
+	'''Preprocess csv files and returns a dataframe with all the features'''
 	reports = pd.read_csv(dir + "credit_reports.csv")
 	users = pd.read_csv(dir + "users.csv")
 
 	index = users.set_index('id').index
 
-	income = users[['id','monthly_income','monthly_outcome']].set_index('id')
-	r_numeric = reports[['user_id', 'amount_to_pay_next_payment', 'number_of_payments_due','maximum_credit_amount', 'current_balance', 'credit_limit','past_due_balance','worst_delinquency_past_due_balance']]
+	income = users[['id','monthly_income','monthly_outcome']].set_index('id')  
+	r_numeric = reports[['user_id', 'amount_to_pay_next_payment',			#numeric features
+                         'number_of_payments_due','maximum_credit_amount', 
+                         'current_balance', 'credit_limit','past_due_balance',
+                         'worst_delinquency_past_due_balance']]
 	r_numeric = r_numeric.groupby(['user_id']).sum()
 	r_numeric = pd.concat([r_numeric, income], axis=1) 
 
@@ -97,7 +101,7 @@ def get_features(dir):
 	credit_card_loans = r_credit_type[credit_card_index]
 	credit_card_loans = credit_card_loans.groupby('user_id').count()
 
-	numb_credit_cards = pd.DataFrame(index=index,columns=credit_card_loans.columns)		#revolving credit is a key feature
+	numb_credit_cards = pd.DataFrame(index=index,columns=credit_card_loans.columns)
 	numb_credit_cards.loc[numb_credit_cards.index,numb_credit_cards.columns] = credit_card_loans
 	numb_credit_cards = numb_credit_cards.fillna(0)
 	numb_credit_cards = numb_credit_cards.rename(columns={"credit_type":"numb_credit_cards"})
@@ -109,20 +113,13 @@ def get_features(dir):
 	feature_names = [feat_numericos,number_of_loans,number_of_inst,numb_credit_cards, worst_delinquency,paid_loans]
 	return pd.concat(feature_names, axis=1)
 
-	#if set is labelled
-	if 'class' in users.columns:
-		y = users['class']
-	else:
-		y = pd.DataFrame(columns=['class'])
-	
-	return pd.concat([X,y],axis=1)
-
 
 def get_labels(dir):
 	users = pd.read_csv(dir + "users.csv")
 	return users[['id','class']].set_index('id')
 
 def train(data_dir, output_dir):
+	'''Fits and compares three models and saves the best one in output_dir'''
 	X = get_features(data_dir)
 	y = get_labels(data_dir)
 	
@@ -165,6 +162,7 @@ def train(data_dir, output_dir):
 
 
 def predict(data_dir, model_dir):
+	'''Predicts from csv file in data_dir using the model saved in model_dir'''
 	clf_filename = model_dir + 'classifier.joblib'
 	scaler_filename = model_dir + 'scaler.joblib'
 	if path.exists(clf_filename):
