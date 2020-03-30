@@ -87,7 +87,7 @@ def get_features(dir):
 	frequencies = frequencies.pivot_table('institution',['user_id'],'payment_frequency')
 	frequencies = frequencies.fillna(0)
 	frequencies = frequencies['count']
-	if 'Catorcenal' in frequencies.columns:
+	if 'Catorcenal' in frequencies.columns:		#drop the less frequent frequencies if they actually appear
 		frequencies = frequencies.drop(['Catorcenal'],1)
 	if 'Trimestral' in frequencies.columns:
 		frequencies = frequencies.drop(['Trimestral'],1)
