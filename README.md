@@ -4,12 +4,12 @@ This script can be used to train, compare and evaluate a model and get predictio
 The dataset consists of  credit reports of some clients from my old company (used with their permission). The dataset is perfectly balanced, but I've worked with very unbalanced datasets.
 The objective is to classify good and bad clients, i.e. to predict the probability of default.
 
-The first function get_features() creates features from the csv file. A lot of work was put into this part, and I believe feature engineering is the hardest part in data science. Three models are then trained and compared:
+The first function get_features() creates features from the csv files. A lot of work was put into this part, and I believe feature engineering is the hardest part in any data science project. Three models are then trained and compared:
 The first one is a logistic regression, which is still very used in the credit business, mainly because it's easy to interpret. The other two are different but related (between them) models: a Random forest classifier and a boosting trees ensemble, both have proven to give high accuracy. Although they lack in terms of interpretability, this can be overcome using other tools, for example the SHAP package.
 
 The metric I chose to compare the models is the Area Under the Receiver Operating Characteristic Curve. This is a good metric for classification problems when they are balanced. I chose this metric because it's robust in the sense that it takes into account all the different thresholds of a binary classificator. 
 
-I've chosen this script because it's related to past work I've actually done. In actual situations, I had more data, not just bureau reports, but also have more restrictions. This piece shows all the aspects that one must consider in a machine learning application.
+I've chosen this script because it's related to past work I've actually done. In actual situations, I had more data, not just bureau reports, but I also had more restrictions. This piece shows all the aspects that one must consider in a machine learning application.
 
 <br>
 
